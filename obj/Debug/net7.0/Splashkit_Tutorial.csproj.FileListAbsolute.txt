@@ -1,0 +1,15 @@
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/bin/Debug/net7.0/Splashkit_Tutorial
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/bin/Debug/net7.0/Splashkit_Tutorial.deps.json
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/bin/Debug/net7.0/Splashkit_Tutorial.runtimeconfig.json
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/bin/Debug/net7.0/Splashkit_Tutorial.dll
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/bin/Debug/net7.0/Splashkit_Tutorial.pdb
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/Splashkit_Tutorial.csproj.AssemblyReference.cache
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/Splashkit_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/Splashkit_Tutorial.AssemblyInfoInputs.cache
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/Splashkit_Tutorial.AssemblyInfo.cs
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/Splashkit_Tutorial.csproj.CoreCompileInputs.cache
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/Splashkit_Tutorial.dll
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/refint/Splashkit_Tutorial.dll
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/Splashkit_Tutorial.pdb
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/Splashkit_Tutorial.genruntimeconfig.cache
+/Users/honghuuphuc/Documents/Project_DS/Splashkit_Tutorial/obj/Debug/net7.0/ref/Splashkit_Tutorial.dll
